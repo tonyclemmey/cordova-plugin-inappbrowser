@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-inappbrowser",
+  "name": "cordova-plugin-inappbrowser-tclemmey",
   "version": "5.0.1-dev",
   "description": "Cordova InAppBrowser Plugin",
   "types": "./types/index.d.ts",
